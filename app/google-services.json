@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "755690621315",
+    "project_id": "videoconference-4b3ed",
+    "storage_bucket": "videoconference-4b3ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755690621315:android:738fe0b5a1eccf29ca0eb6",
+        "android_client_info": {
+          "package_name": "com.dev.videoconference"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755690621315-pkugp3848en6ssfk9ff43t15fri77g50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.videoconference",
+            "certificate_hash": "1e7c3980b573549632472773cfc3fb49069aece9"
+          }
+        },
+        {
+          "client_id": "755690621315-8fq3ifs7cs106tl6tafnk5ilhf1plmns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJVMA5gsRP8JIdXm2jaBNPWfjKWo8i17E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755690621315-8fq3ifs7cs106tl6tafnk5ilhf1plmns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
